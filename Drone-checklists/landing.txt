@@ -1,0 +1,19 @@
+﻿
+
+
+Landing Procedure
+-----------------
+
+Landing Procedure
+
+☐	Alert crew and bystanders of approaching aircraft
+☐	Ensure landing site is clear of debris and is suitable for landing
+☐	When drone is approximately 10m away, rotate drone to face away (to allow
+	natural flight control movements)
+☐	Ensure all crew and involved people are clear of landing site
+☐	Ensure all bystanders are 30m away from landing site
+☐	Land drone
+☐	Turn off motors and camera
+☐	Retrieve drone and inspect for damage
+☐	Disassemble as required, apply gimbal guard and lens cover, stow gear
+☐	Record flight in flight log

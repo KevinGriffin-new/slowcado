@@ -1,0 +1,62 @@
+﻿
+
+
+Visual Observer Responsibilities
+--------------------------------
+
+Main role of the Visual Observer (VO)
+
+☐	A Visual Observer (VO) is a trained RPAS crew member who assists the Pilot in
+	Command (PIC) in ensuring the safe conduct of a flight. The VO serves as a
+	second set of eyes to support the PIC to maintain VLOS to the RPAS and to aid in
+	Detect and Avoid Functions.
+
+VO Responsibilities
+
+☐	The VO shall systematically scan the area of flight and surrounding area for
+	potential hazards to the flight, including conflicting air traffic, hazards to
+	aviation safety or hazards to persons on the ground, and immediately communicate
+	such hazards to the PIC (see list of hazards below)
+☐	The VO shall maintain Visual Line of Sight (VLOS) with the RPAS at all times,
+	and shall immediately inform the PIC if VLOS is lost.
+☐	If the VO needs to break VLOS (for example, to scan an area well away from the
+	RPAS), the VO must pass VLOS responsibilities to the PIC or other crew member
+	for the duration of this task
+☐	The VO shall be familiar with the mission, such that potential hazards can be
+	anticipated and where applicable, contingency plans can be developed in concert
+	with the PIC (see list of hazards below)
+☐	The VO should be aware of the limits associated with potential hazards (eg,
+	maximum wind speed for the RPAS) in order to appropriately alert the PIC
+
+Potential hazards the VO should be aware of, and know the limits for
+
+☐	Airspace hazards:  manned aircraft, aerodromes in the vicinity, air traffic
+	patterns, airspace types, applicable NOTAMs, potential birds/wildlife
+☐	Ground hazards:  location and height of buildings, towers, structures,
+	wires/cables, trees, terrain features
+☐	People hazards: advertised events, locations and potential paths of bystanders,
+	other RPAS operators
+☐	Environmental hazards:  weather conditions and forecast (particularly wind,
+	temperature, and precipitation), Kp-Index
+
+General requirements
+
+☐	The VO must always comply with instructions from the PIC during flight time
+☐	The VO must be able to communicate effectively and in a timely manner with the
+	PIC, either directly or via an agreed-upon, reliable communications device
+☐	The VO must be fit to perform their duty, including not ingesting alcohol or
+	drugs within 12 hours of the flight, and not being subject to fatigue
+☐	The VO must be able to perform their duties with unaided sight, without
+	instruments such as binoculars
+☐	The VO must not operate a moving vehicle, vessel or aircraft while performing
+	their in-flight VO duties
+☐	The VO must be familiar with RPAS regulations applicable to the type of
+	operation being performed (Basic or Advanced)
+☐	The VO must be familiar with the RPAS in operation and it's limitations (eg
+	minimum temperature, maximum wind), and have access to the RPAS's operating manual
+☐	The VO shall perform VO duties for only one RPAS at a time (exceptions: see
+	901.40 or SFOC)
+☐	The VO may aid in other duties, per the PIC's instructions, as long as such
+	tasks do not interfere with their ability to perform their in-flight VO duties. 
+	Examples of other duties include pre-flight site assessment, checklist
+	read-outs, ground crew supervision, or crowd control.

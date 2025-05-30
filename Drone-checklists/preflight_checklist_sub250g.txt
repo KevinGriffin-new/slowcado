@@ -1,0 +1,70 @@
+﻿
+
+
+Preflight Checklist - Sub 250g
+------------------------------
+
+Airspace Assessment
+
+☐	If flight will be nearer than 5.6 km (3 NM) away from airports, or 1.9 km (1 NM)
+	away from heliports, fly carefully and ideally below 30m AGL.  Check app for
+	safe flying zones. Check NRC Drone Site Selection web page. Check NAV CANADA's
+	Canada Flight Supplements and Water Aerodrome Supplements.
+☐	If flight will  be in Controlled Airspace, fly carefully and ideally below 30m
+	AGL. Check app for safe flying zones. Check NRC Drone Site Selection web page.
+	Check Designated Airspace Handbook.
+☐	If flight will  be nearer than 5.6 km (3 NM) from a military aerodrome, fly
+	carefully and ideally below 30m AGL.  Check app for safe flying zones. Check NRC
+	Drone Site Selection web page. Check Designated Airspace Handbook.
+☐	If flight will  be within a CYR Class F Restricted Zone, obtain permission from
+	controlling agency.  Check app for details. Check Designated Airspace Handbook.
+☐	Locate other aerodromes in flight area and ensure flight stays out of
+	established flight patterns of those aerodromes.  Check app for safe flying
+	zones. Check NRC Drone Site Selection web page. Check NAV CANADA's Canada Flight
+	Supplements and Water Aerodrome Supplements
+☐	Ensure no impacting temporary aviation restrictions are in effect.  Check the
+	app.  Check the NAV CANADA NOTAM site.
+☐	Check visually and audibly for nearby low altitude air operations such as
+	helicopters, seaplanes, hot air balloons, and ultra-light aircraft.  Stay well clear.
+
+Ground Hazard Assessment
+
+☐	Take note of potential obstacles such as buildings, wires, trees, cell towers,
+	wind turbines. Check maps for marked obstacles.
+☐	Check for and plan to stay clear of land-based flight restrictions, including
+	police activities (eg traffic accidents), forest fires, or other natural disasters
+☐	Ensure you have permission to take off and land from land owner, particularly
+	for National, Provincial or Municipal parks.
+
+Weather & Environmental Factors
+
+☐	Check suitability of current weather and weather forecast for the duration of
+	the operation (wind, rain, snow, fog, temperature)
+☐	Check that the Kp index is suitable for the flight (ideally less than 4)
+☐	Check for and avoid potential dust or dirt clouds
+☐	Determine the maximum safe range for the operation, based upon site details,
+	current weather conditions, and battery charge
+
+Bystander Locations
+
+☐	Ensure bystanders stand clear of take off and landing operations
+☐	Avoid flying over large groups of people
+☐	Ensure crew and other involved parties are aware of the flight and stand clear.
+
+Aircraft Check
+
+☐	Check for damage, cracks, or other signs of potential failure
+☐	Check propellers for cracks, deformation, or other wear.
+☐	Ensure drone and control unit batteries are sufficiently charged for the operation
+☐	Check that propellers, propeller guards, and other removable items are secure,
+	and items such as gimbal guards and lens covers are removed
+☐	Ensure micro-SD card is installed for camera recording
+☐	Ensure launch site is suitable for take-off (level, clear of debris, nothing to
+	interfere with camera gimbal, pad in place if required for mud or snow)
+
+Crew Readiness
+
+☐	Confirm that all flight crew members (eg, Visual Observer) are fit to perform:
+	Not under the influence of any alcohol/drugs that may impair safety. Not
+	suffering from fatigue.
+☐	Ensure all flight crew members are briefed on the flight plan

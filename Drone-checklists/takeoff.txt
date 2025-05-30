@@ -1,0 +1,30 @@
+﻿
+
+
+Take Off Procedure
+------------------
+
+Take-off & Launch Procedure
+
+☐	Confirm completion of pre-flight checklist
+☐	Record beginning of flight log information
+☐	Assemble control unit, display, and related gear
+☐	Prepare drone for launch
+☐	Activate control unit and display device
+☐	Launch drone control app on phone
+☐	Activate drone
+☐	Initiate control unit and drone communication connection, and confirm proper linkage
+☐	Ensure all control switches are correctly set for operation
+☐	Check that firmware load for entire system are up to date and consistent
+☐	Check that compass, IMU, and gimbal calibration are ok
+☐	Ensure Return-to-Home parameters are correct for current operation (correct
+	mode, sufficient altitude)
+☐	Ensure sufficient GPS satellites are connected (minimum 7)
+☐	Perform final weather check (temperature, imminent storms, wind direction & speed)
+☐	Signal to crew and bystanders to stand clear for take-off (particularly ensure
+	no one is downwind from drone in case of take-off drift)
+☐	Start camera recording
+☐	Announce take-off and stand clear
+☐	Activate take-off controls
+☐	Allow drone to hover at low altitude to confirm stability before further flight
+☐	Test controls to ensure full directional control

@@ -1,0 +1,45 @@
+﻿
+
+
+Key Rules Advanced
+------------------
+
+Drone
+
+☐	Must be less than 25 Kg
+☐	Must be Registered with Transport Canada
+☐	Must have registration number on the drone
+
+Pilot
+
+☐	Must pass certification exam for Advanced Operations
+☐	Must be at least 16 years old or under supervision of a certified drone pilot
+☐	Must be fit to fly (No alcohol/drugs within 12 hours; and not subject to fatigue)
+
+Visual Line of Sight (VLOS)
+
+☐	Must maintain VLOS at all times
+☐	FPV goggles permitted only with Visual Observer
+☐	Night flying permitted with visible lights
+
+Aerodromes & Airspace
+
+☐	May fly within 5.6 km (3 NM) of certified airports IF operator approval is granted
+☐	Must stay 5.6 km (3 NM) away from DND aerodromes (SFOC required)
+☐	May fly within 1.9 km (1 NM) of certified heliports IF operator approval is granted
+☐	Must stay out of established flight patterns at any aerodrome
+☐	May fly in controlled airspace IF approval is granted and flying approved drone model
+☐	May fly in restricted airspace IF approval is granted and flying approved drone model
+
+People
+
+☐	May fly up to  5m (16.4 ft) away from bystanders IF flying a drone model
+	approved for flying NEAR people
+☐	May fly closer than 5m (16.4 ft) from people IF flying a drone model approved
+	for flying OVER people
+☐	Must not fly at Advertised Events (parades, concerts, sporting events,…)
+
+Altitude
+
+☐	Maximum altitude is the greater of 122m (400 ft) or 30m (100ft) above
+	buildings/structures when within 61m (200 ft)

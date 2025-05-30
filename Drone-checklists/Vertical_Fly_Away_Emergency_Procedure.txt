@@ -1,0 +1,37 @@
+﻿
+
+
+Vertical Fly Away Procedure
+---------------------------
+
+Before you call!
+
+☐	Attempt to reconnect to your aircraft by adjusting antennae, moving closer,
+	re-starting your control unit, and/or re-starting your control software
+☐	Note that the following procedure is available as an Emergency button on the
+	Flight Timer screen of the Drone Pilot Canada app
+
+Call the Area Control Centre Emergency Number for your FIR
+
+☐	Call the shift manager at the Area Control Centre for the FIR (Flight
+	Information Region) you are flying in.  See Important Phone Number list
+
+Call the closest airport with a Control Tower
+
+☐	If you are unable to reach the FIR ACC, call the nearest airport with a control
+	tower. Use the Emergency Button or Airspace Assessment features in Drone Pilot Canada.
+
+Aviation Emergency
+
+☐	As a last resort, if there is an imminent and immediate threat to aviation and
+	public safety, call the Aviation Emergency Number 1-877-992-6853
+
+Script when talking to aerodrome operators or emergency contacts
+
+☐	Hello, my name is <insert your name>
+☐	I have lost control of my RPAS, a [drone]
+☐	I am located [distance],  heading [direction] of [aerodrome]
+☐	My RPAS was flying at an altitude of <insert altitude in feet> feet, and is
+	climbing vertically at <xx> feet per second
+☐	The battery is about <insert percent> remaining; its RPAS category is
+	[category]; its weight is <xx> grams; its colour is <colour>

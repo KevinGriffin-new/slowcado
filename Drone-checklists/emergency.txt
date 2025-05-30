@@ -1,0 +1,58 @@
+﻿
+
+
+EMERGENCY
+---------
+
+Medical Issues or Injury
+
+☐	Administer first aid as appropriate
+☐	Call 911 if required
+☐	Stop flight operation
+☐	If medical issue or injury was caused by the aircraft, determine root cause of
+	the event and take corrective action to prevent recurrence.
+☐	If the injury is serious (broken limb, extensive burning, or other
+	hospitalization required), report to Transportation Safety Board (per AIM 3.0)
+	1-800-387-3557
+
+Aircraft Fly-away
+
+☐	Attempt to reconnect to the drone by adjusting antennae, moving closer,
+	restarting controller, and/or restarting control application
+☐	Note direction and speed of drone, altitude, and approximate battery life.
+☐	Use the Emergency button on the Flight Timer screen of the app to contact
+	appropriate aerodromes or airspace control towers.
+☐	If there is an imminent and immediate threat to aviation and public safety, call
+	the Aviation Emergency Number: 1-877-992-6853
+☐	If possible, warn people in the potential crash zone
+☐	Recover drone
+☐	Determine cause of failure, note maintenance actions in maintenance log, and
+	take corrective actions
+
+Aircraft Failure / Crash / Flight Termination
+
+☐	If possible, warn people in potential crash zone
+☐	Recover drone
+☐	Determine cause of failure, note maintenance actions in maintenance log, and
+	take corrective actions
+
+Control Station Failure
+
+☐	Power cycle control station unit
+☐	Attempt to reconnect to drone
+☐	Recover drone (assuming either auto-return-to-home or crash)
+☐	Determine cause of failure, note maintenance actions in maintenance log, and
+	take corrective actions
+
+Loss of Command and Control Link
+
+☐	Attempt to reconnect to drone by adjusting anennae, moving closer, restarting
+	controller, and/or restarting control application
+☐	Recover drone (assuming either auto-return-to-home or crash)
+☐	Determine cause of failure, note maintenance actions in maintenance log, and
+	take corrective actions
+
+Other Equipment Failure
+
+☐	Determine cause of failure, note maintenance actions in maintenance log, and
+	take corrective actions

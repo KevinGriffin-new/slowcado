@@ -1,0 +1,17 @@
+﻿
+
+
+SFOC
+----
+
+Operations requiring an SFOC
+
+☐	Any drone weighing more that 25Kg
+☐	Flying beyond Visual Line of Sight (VLOS)
+☐	Pilot who is not a Canadian citizen or permanent resident of Canada
+☐	Flying higher than normal maximum altitudes unless authorized by Air Traffic Control
+☐	Operating more than 5 RPAs from one control station
+☐	Flying at a special aviation event or at an advertised event
+☐	Carrying hazardous payload
+☐	Flying within 3 nautical miles of a military aerodrome
+☐	Any other operation that the Minister decides requires an SFOC
