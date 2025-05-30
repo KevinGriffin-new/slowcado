@@ -1,2 +1,3 @@
 # slowcado
-Slow intro to API usage
+Notes on things I'm exploring. Right now, it'a checklist for drone flight
+
