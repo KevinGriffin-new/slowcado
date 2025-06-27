@@ -10,6 +10,7 @@ Things to charge:
 ☐	  backup/secondary control station
 ☐	  tablet(s)
 ☐	  radios
+☐	  nighttime landing pad (optional)
 
 Things to check:
 -----
@@ -26,7 +27,7 @@ Things to pack:
 ☐	  drone 
 ☐	  control station
 ☐	  payload
-☐	  props
+☐	  props (spare)
 ☐	  flight batteries
 ☐	  control station batteries 
 ☐	  micro SD cards
@@ -39,8 +40,8 @@ Things to pack:
 ☐	   goggles
 ☐	    gloves
 ☐	   pen
-screwdriver
-tape
-zip ties
-knife/scissors
-clean cloth
+☐	  screwdriver
+☐	  tape
+☐	  zip ties
+☐	  knife/scissors
+☐	  clean cloth
